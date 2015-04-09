@@ -14,4 +14,4 @@ set spoolfile="~/Mail"
 set from="Your Name <username@zubkoland.org>"
 ----
 
-you should then be able to run mutt to read, write, and send messages.
+you should then be able to run mutt to read, write, and send messages. you can find more information on configuring mutt to use a Maildir directory (which is the format ~/Mail is) http://www.elho.net/mutt/maildir/[here].
