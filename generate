@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+asciidoctor -vD out/ src/*
